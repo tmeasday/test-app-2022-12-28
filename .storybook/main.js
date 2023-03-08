@@ -14,4 +14,4 @@ module.exports = {
     autodocs: 'tag',
   },
 };
-throw new Error('foo');
+// throw new Error('foo');
